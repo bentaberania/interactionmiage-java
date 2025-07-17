@@ -3,12 +3,12 @@
 Projet académique réalisé par **Rania Bentabe**, dans le cadre de la **Licence Informatique 2024-2025 à l’UPJV**.  
 Ce dépôt contient uniquement l’implémentation **partielle en Java** du module d’interaction entre **tuteurs universitaires**, **étudiants**, et **tuteurs entreprise**.
 
-## Objectif
+## 🎯 Objectif
 
 Digitaliser les interactions liées au suivi des étudiants en entreprise dans le cadre de l’UE « Projet Professionnel » (PP) du Master MIAGE.  
 L'application vise à faciliter les échanges entre les différents intervenants (étudiants, tuteurs, responsables), tout en centralisant les données essentielles (fiches de faisabilité, comptes rendus, validations...).
 
-## Fonctionnalités développées (partie Java)
+## 📚 Fonctionnalités développées (partie Java)
 
 - Gestion des comptes tuteurs (création, consultation)
 - Consultation et gestion des fiches de faisabilité
@@ -19,7 +19,7 @@ L'application vise à faciliter les échanges entre les différents intervenants
 > ⚠️ Ce dépôt ne contient que la logique Java pour la gestion des interactions.  
 > Les modules web, base de données, ainsi que l'intégration avec les plateformes MySUP ou ENT ne sont **pas inclus**.
 
-## Technologies utilisées
+## 🧰 Technologies utilisées
 
 - Java (programmation orientée objet)
 - Modélisation UML (diagrammes réalisés mais non inclus ici)

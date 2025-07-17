@@ -26,3 +26,7 @@ L'application vise à faciliter les échanges entre les différents intervenants
 - Structure MVC (Modèle - Vue - Contrôleur) simplifiée
 - Console Java (pas d'interface graphique)
 
+## Executer les classe : 
+- javac *.java
+## Executer le programme: 
+- java Programme 
